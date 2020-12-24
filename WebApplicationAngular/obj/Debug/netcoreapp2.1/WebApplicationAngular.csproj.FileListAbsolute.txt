@@ -20,3 +20,4 @@ X:\Projects\VisualStudioProjects\WebApplicationAngular\WebApplicationAngular\bin
 X:\Projects\VisualStudioProjects\WebApplicationAngular\WebApplicationAngular\obj\Debug\netcoreapp2.1\WebApplicationAngular.RazorTargetAssemblyInfo.cache
 X:\Projects\VisualStudioProjects\WebApplicationAngular\WebApplicationAngular\obj\Debug\netcoreapp2.1\WebApplicationAngular.dll
 X:\Projects\VisualStudioProjects\WebApplicationAngular\WebApplicationAngular\obj\Debug\netcoreapp2.1\WebApplicationAngular.pdb
+X:\Projects\VisualStudioProjects\WebApplicationAngular\WebApplicationAngular\bin\Debug\netcoreapp2.1\proxy.config.json
